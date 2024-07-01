@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProsgrestwithUI2.props" />
+</Project>
